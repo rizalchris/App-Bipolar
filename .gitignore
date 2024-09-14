@@ -1,0 +1,16 @@
+*.log
+*.zip
+*.rar
+.htaccess
+robots.txt
+test.txt
+nginx.conf
+readme.html
+sitemap.xml
+sitemap.xml.gz
+page-sitemap.xml
+wp-config.php
+wp-content/*
+!wp-content/uploads
+!wp-content/themes/
+!wp-content/index.php
