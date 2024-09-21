@@ -5,7 +5,7 @@ if (!defined('ABSPATH')) {
 }
 
 get_header(); ?>
-<main>
+<main id="main" class="<?php get_post_class(); ?>">
 	<?php the_content(); ?>
 </main>
 
